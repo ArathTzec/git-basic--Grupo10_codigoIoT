@@ -5,3 +5,6 @@ Esta es una modificacioón del archivo README.md con el editor web de Github.com
 También aprendimos que el archivo se puede editar con [MarkDown](https://stackedit.io/app#)
 
 ===> Aquí puedes encontrar mi perfil personal de GitHub [ArathTzec](https://github.com/ArathTzec)
+
+Esta es una nueva linea desde la terminal: "Hola!!" 
+
