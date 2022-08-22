@@ -13,5 +13,3 @@ Esta es una nueva linea con la terminal: Holaa2!!
 Esta es una modificacion que se subira unicamente el readme :) 
 
 Esta linea es un commit realizado desde Visual Studio code :D 
-
-Esta linea representa un commit realizado con la extensión "GitHub Pull Requiests and Issues" 
